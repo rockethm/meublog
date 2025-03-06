@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bem-vindo ao meu blog!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Olá! Meu nome é Andre, e esse é o meu blog! Aqui você encontrará opiniões sobre tecnologia, filmes e música! Assim como alguns projetos pessoais!
+- [teste]
