@@ -1,6 +1,7 @@
 ---
 title: Bem-vindo ao meu blog!
-tags: []
+tags:
+  - home
 ---
 
 Olá! Esse é o meu blog! Aqui você encontrará opiniões sobre tecnologia, filmes, música e algumas outras coisas! Encontrará também alguns projetos pessoais!
