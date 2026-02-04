@@ -4,15 +4,15 @@ tags:
   - álbuns
   - artistas
   - reviews
-  - 7️⃣
+  - 6️⃣
 ---
-![[the-kid-laroi-before-i-forget-Cover-Art.jpg]]
+![](content/attachments/the-kid-laroi-before-i-forget-Cover-Art.jpg)
 
 Esse é meu primeiro review! Ainda tô pegando o jeito
 
-BEFORE I FORGET é o segundo álbum de estúdio do Laroi e teve uma recepção mista no último mês. O Laroi inclusive comentou em uma publicação no Instagram que esse álbum foi feito em apenas 4 meses, após seu término com a também cantora Tate McRae, descartando um outro projeto que vinha sendo feito há mais de um ano.
+BEFORE I FORGET é o segundo álbum de estúdio do The Kid Laroi e teve uma recepção mista no último mês. O Laroi inclusive comentou em uma publicação no Instagram que esse álbum foi feito em apenas 4 meses, após seu término com a também cantora Tate McRae, descartando um outro projeto que vinha sendo feito há mais de um ano.
 
-Esse álbum evidência a busca de Laroi por uma produção mais polida e interessante, que em alguns momentos acertou em cheio e em outros é razoável, raramente deixando a desejar (como em RATHER BE, ou em THE MOMENT que é uma das minhas faixas favoritas e teve muito de seu potencial lesado pela produção). Pode-se dizer que é uma produção genérica de pop/trap que bebe de alguns artistas como Dijon e por incrível que pareça Backstreet Boys.
+Esse álbum evidência a busca de Laroi por uma produção mais polida e interessante, que em alguns momentos acertou em cheio mas normalmente é razoável, raramente deixando a desejar (como em RATHER BE, ou em THE MOMENT que é uma das minhas faixas favoritas e teve muito de seu potencial lesado pela produção). Pode-se dizer que é uma produção genérica de pop/trap que bebe de alguns artistas como Dijon e por incrível que pareça Backstreet Boys.
 
 Se a produção do álbum é ok, nem surpreende nem decepciona, onde mora a controvérsia que circunda esse álbum? Na temática e nas letras. 
 
@@ -22,6 +22,6 @@ O Laroi ao longo do álbum mostra como nos sentimos em um término, a saudade, a
 
 Esse álbum é do começo ao fim um relato cru e pessoal de como ele se sentiu no término, seja nos momentos racionais ou irracionais, bonitos ou feios. É um retrato muito bonito e bem feito de uma das coisas que mais machuca.
 
-Leva 7 de 10. 
+Leva 6 de 10. 
 
 Melhores faixas - THANK GOD, MAYBE I'M WRONG, BACK WHEN YOU WERE MINE
