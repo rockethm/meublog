@@ -6,7 +6,7 @@ tags:
   - reviews
   - 6️⃣
 ---
-![](content/attachments/the-kid-laroi-before-i-forget-Cover-Art.jpg)
+![](attachments/the-kid-laroi-before-i-forget-Cover-Art.jpg)
 
 Esse é meu primeiro review! Ainda tô pegando o jeito
 

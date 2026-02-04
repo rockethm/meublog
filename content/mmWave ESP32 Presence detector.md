@@ -19,5 +19,5 @@ Eu e o [Pedro Sampaio](https://www.linkedin.com/in/pedro-sampaio-666932238/) des
   
 Talvez a gente deva chamá-lo de Sonofree mini kkkkkkjj
 
-![](content/attachments/sono1.jpg)
-![](content/attachments/sono2.jpg)
+![](attachments/sono1.jpg)
+![](attachments/sono2.jpg)
