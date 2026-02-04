@@ -10,13 +10,15 @@ Olá! Esse é o meu blog! Aqui você encontrará opiniões sobre tecnologia, fil
 
 *Você pode navegar pelo blog utilizando as tags de seu interesse!*
 
-#álbuns #artistas #filmes #música #séries #projetos
-
+#álbuns #artistas #filmes #música #séries #projetos #reviews
+###### notas dos álbuns
+ #1️⃣ #2️⃣ #3️⃣ #4️⃣ #5️⃣ #6️⃣ #7️⃣ #8️⃣ #9️⃣ #🔟
+ 
 ----------------
 
 # Sobre Mim
 
-Em construção 🚧
+Sou estudante de Engenharia da Computação, gosto muito das áreas de dados e segurança computacional, as vezes um pouco neurótico com privacidade. No tempo livre adoro jogos competitivos, atualmente jogo muito Deadlock. Também gosto muito de jogos de tabuleiro, música e filmes.
 
 --------
 

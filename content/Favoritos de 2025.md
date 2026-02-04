@@ -17,6 +17,8 @@ coisas que eu gostei esse ano
 - Heated Rivalry - se você é gay é um must
 - Pluribus - vince não erra aparentemente
 - The Roses - filmão pra divertir
+- O Agente Secreto - complexo
+- The Pitt - série do ano eu tinha esquecido
 
 ### melhores álbuns
 1. Loved - Parcels
@@ -55,7 +57,7 @@ as em negrito eu curto muuuito
 #### rap
 - **a última dança - link do zap**
 - Raindance - Dave
-- We're Outside, Rejoice! - McKinley Dixon]
+- We're Outside, Rejoice! - McKinley Dixon
 - Copycats - Danny Brown
 - SK8 - JID
 - IS THIS LOVE - Joey Valence & Brae
