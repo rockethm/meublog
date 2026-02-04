@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.popover-hint,
+article > p {
+    text-align: justify;
+    hyphens: auto; // Opcional: ajuda a quebrar palavras para evitar espaços grandes
+}
